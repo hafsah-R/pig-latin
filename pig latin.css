@@ -1,0 +1,34 @@
+body {
+    background-color:#FFFACD ;
+}
+h1{
+   position:relative;
+   display:block;
+   margin-right:auto;
+   margin-left:400px;
+   top:150px; 
+   color:#994d00;
+   font-family: "Lucida Console", Courier,monospace
+}
+input{
+
+    display:block;
+    margin-right:auto;
+    margin-left:auto;
+    padding:5px;
+    margin-bottom:10px;
+    position:relative ;
+    top:150px;
+}
+input[type="text"]{
+    border:5px solid  #994d00;
+    width:50%;
+    padding:15px;
+}
+input[type=button]{
+    width:20%;
+    background-color:  #b35900;
+    color:#fff2e6;
+    border-radius:2px;
+    border:solid #994d00;
+}
